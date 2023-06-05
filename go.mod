@@ -3,8 +3,8 @@ module github.com/MartyHub/s2x
 go 1.20
 
 require (
-	github.com/stretchr/testify v1.8.2
-	modernc.org/sqlite v1.22.1
+	github.com/stretchr/testify v1.8.4
+	modernc.org/sqlite v1.23.0
 )
 
 require (
